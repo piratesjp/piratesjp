@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @piratesjp
+- 👀 I’m interested in independent Penetration Testing...
+- 🌱 I’m currently learning to start a Start-Up...
+- 📫 How to reach me official.mrjp@gmail.com ...
+
+<!---
+piratesjp/piratesjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
